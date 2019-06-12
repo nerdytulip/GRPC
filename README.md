@@ -28,6 +28,7 @@ Open Factorial directory as project in GoLand IDE.
 Run main.go file
 Note:-> Before running the program please chech the imports in the following go files first 1.) client.go in Golang -> client directory 2.) server.go and calculator_handler in Golang -> server directory
 
+***OUTPUT***
 ![grpc1](https://user-images.githubusercontent.com/40175918/59329274-24522d00-8d0c-11e9-9f0b-6a86d6f9822c.png)
 
 ***To run the program with Go server and Java client***
@@ -37,6 +38,9 @@ Run only grpc server from main.go file
 Open grpcjava directory as project in IntelliJ IDE.
 After opening the project, open the project directory in terminal and run the following command "gradle clean build"
 After running gradle build, in grpcjava navigate to src/main/java and run client.java
+***OUTPUT***
+![grpc2](https://user-images.githubusercontent.com/40175918/59329871-9119f700-8d0d-11e9-869a-dc36537e77a0.png)
+
 
 
 
