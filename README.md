@@ -1,6 +1,6 @@
 #***GRPC***
 
-The project requires the following configuration to run:
+**The project requires the following configuration to run:**
 
 1)Goland IDE version 2019.1.3
 2)Requires Go version 1.6 or above
