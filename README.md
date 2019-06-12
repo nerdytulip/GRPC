@@ -42,6 +42,9 @@ After running gradle build, in grpcjava navigate to src/main/java and run client
 
 
 ***OUTPUT***
+
+
+
 ![grpc2](https://user-images.githubusercontent.com/40175918/59329871-9119f700-8d0d-11e9-869a-dc36537e77a0.png)
 
 
