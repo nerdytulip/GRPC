@@ -28,6 +28,8 @@ Open Factorial directory as project in GoLand IDE.
 Run main.go file
 Note:-> Before running the program please chech the imports in the following go files first 1.) client.go in Golang -> client directory 2.) server.go and calculator_handler in Golang -> server directory
 
+![grpc1](https://user-images.githubusercontent.com/40175918/59329274-24522d00-8d0c-11e9-9f0b-6a86d6f9822c.png)
+
 ***To run the program with Go server and Java client***
 
 Open Golang directory as project in Goland IDE.
