@@ -26,12 +26,11 @@ b)GO SERVER AND JAVA CLIENT
 
 Open Factorial directory as project in GoLand IDE.
 Run main.go file
-Note:-> Before running the program please chech the imports in the following go files first 1.) client.go in golang -> client directory 2.) server.go and calculator_handler in golang -> server directory
-
+Note:-> Before running the program please chech the imports in the following go files first 1.) client.go in Golang -> client directory 2.) server.go and calculator_handler in Golang -> server directory
 
 ***To run the program with Go server and Java client***
 
-Open Factorial directory as project in Goland IDE.
+Open Golang directory as project in Goland IDE.
 Run only grpc server from main.go file
 Open grpcjava directory as project in IntelliJ IDE.
 After opening the project, open the project directory in terminal and run the following command "gradle clean build"
