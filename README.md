@@ -38,6 +38,9 @@ Run only grpc server from main.go file
 Open grpcjava directory as project in IntelliJ IDE.
 After opening the project, open the project directory in terminal and run the following command "gradle clean build"
 After running gradle build, in grpcjava navigate to src/main/java and run client.java
+
+
+
 ***OUTPUT***
 ![grpc2](https://user-images.githubusercontent.com/40175918/59329871-9119f700-8d0d-11e9-869a-dc36537e77a0.png)
 
